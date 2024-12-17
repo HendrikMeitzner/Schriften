@@ -2,6 +2,7 @@ AUTHOR = 'Hendrik Meitzner'
 SITENAME = 'Schriften'
 SITEURL = ""
 
+THEME = 'themes/notmyidea-cms'
 PATH = "content"
 
 TIMEZONE = 'Europe/Berlin'
